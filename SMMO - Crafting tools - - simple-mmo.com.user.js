@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           SMMO - Crafting tools - - simple-mmo.com
-// @updateURL      https://github.com/oligochrome/scripts/raw/main/SMMO - Crafting tools - - simple-mmo.com.user.js
-// @downloadURL      https://github.com/oligochrome/scripts/raw/main/SMMO - Crafting tools - - simple-mmo.com.user.js
+// @updateURL      https://github.com/oligochrome/public/raw/refs/heads/main/SMMO%20-%20Crafting%20tools%20-%20-%20simple-mmo.com.user.js
+// @downloadURL    https://github.com/oligochrome/public/raw/refs/heads/main/SMMO%20-%20Crafting%20tools%20-%20-%20simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match          https://web.simple-mmo.com/crafting/menu*
 // @grant          none
