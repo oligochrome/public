@@ -9,6 +9,7 @@
 // @author         Ogliochrome
 // @license        GNU GPL
 // @description    05/02/2023, 18:55:37
+// @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // ==/UserScript==
 
 function countItems() {
